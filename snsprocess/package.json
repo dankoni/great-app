@@ -1,10 +1,10 @@
 {
-    "name": "sns-processing",
-    "description": "Passing url of image as sns message",
-    "version": "1.0.0",
-    "author": "Danko Misix",
-    "license": "MIT",
-    "dependencies": {
-      "aws-sdk": "^2.7.9"
-    }
+  "name": "sns-processing",
+  "description": "Passing url of image as sns message",
+  "version": "1.0.0",
+  "author": "Danko Misix",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.7.9"
   }
+}
